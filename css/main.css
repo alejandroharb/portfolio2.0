@@ -24,3 +24,8 @@ header .header-content .header-content-inner p{
     max-width: 175px;
   }
 }
+@media (min-width: 1290px){
+.container-fluid {
+    width: 1170px;
+  }
+}
