@@ -11,3 +11,16 @@ header .header-content .header-content-inner p{
 .article-Modal{
   cursor: pointer;
 }
+.profile-img{
+  background-color:#fafafa;
+}
+@media (min-width: 768px) {
+  .profile-img{
+    max-width: 200px;
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .profile-img{
+    max-width: 175px;
+  }
+}
