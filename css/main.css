@@ -1,3 +1,13 @@
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category{
   font-size: 13px;
 }
+header{
+  color:#3b3b3b;
+}
+header .header-content .header-content-inner p{
+  color:#3b3b3b;
+}
+
+.article-Modal{
+  cursor: pointer;
+}
